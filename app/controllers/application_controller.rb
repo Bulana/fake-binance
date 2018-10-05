@@ -18,6 +18,5 @@ end
 
   <body>
     <%= yield %>
-    <%= render 'layouts/footer'>
   </body>
 </html>
